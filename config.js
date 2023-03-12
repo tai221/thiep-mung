@@ -1,6 +1,6 @@
 const nameGirl = '';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Ú oà món quà gì đây ta!';
+const eventName = 'Ú oà món quà gì đây ta?';
 const titleCard = 'Tặng vợ yêu';
 const contentCard = 'Chúc vợ của anh một ngày tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
 
